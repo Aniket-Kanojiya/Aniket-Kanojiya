@@ -1,61 +1,68 @@
 # Hi 👋, I'm Aniket Kanojiya
 
-### B.Tech Artificial Intelligence & Data Science Student | Data Analyst | Data Science & Machine Learning Enthusiast | Excel, SQL, Power BI, Tableau, Python
+### B.Tech Artificial Intelligence & Data Science Student | Data Analyst | Data Science & Machine Learning Enthusiast
 
-- 🔭 I'm currently working on
- **
-- Data Analytics Projects
-- Machine Learning Models
-- AI Agents & RAG Applications
-- FastAPI & Streamlit Applications
-- End-to-End Data Science Projects
- **
+🚀 Passionate about transforming data into actionable insights and building AI-powered solutions using Python, SQL, Power BI, Tableau, Machine Learning, and Generative AI.
 
-- 🌱 I'm currently learning
-**
-- Advanced Data Analytics
-- Machine Learning & Deep Learning
-- Generative AI & Agentic AI
-- Data Engineering
-- MLOps & Cloud Computing
-  **
+---
 
-- 👯 I'm looking to collaborate on
-**
-- Data Analytics Dashboards
-- Machine Learning Projects
-- Generative AI Applications
-- Open Source AI & Data Science Projects
-**
+## 🔭 I'm Currently Working On
 
-- 🤝 I'm looking for help with **
-- MLOps & Model Deployment
-- Cloud Technologies (AWS/GCP/Azure)
-- Large Scale AI Systems
-- Open Source Contributions
-**
+* Data Analytics Projects
+* Machine Learning Models
+* AI Agents & RAG Applications
+* FastAPI & Streamlit Applications
+* End-to-End Data Science Projects
 
-- 💬 Ask me about
-- **
-- Python
-- SQL
-- Excel
-- Power BI
-- Tableau
-- Pandas
-- NumPy
-- Machine Learning
-- Data Analysis
-- Data Visualization
-- Deep Learning
-- AI & Generative AI
-**
+## 🌱 I'm Currently Learning
 
-- 📫 How to reach me **akanojiya146@gmail.com**
+* Advanced Data Analytics
+* Machine Learning & Deep Learning
+* Generative AI & Agentic AI
+* Data Engineering
+* MLOps & Cloud Computing
 
-- ⚡ Fun fact ** I love building AI projects and learning new technologies through hands-on experimentation.**
+## 👯 I'm Looking to Collaborate On
 
-- 📄 Know about my experiences **[https://drive.google.com/drive/u/1/folders/1LkSBeBEleKONqkgxX5qzSJu-eJKnV1DU](https://drive.google.com/drive/u/1/folders/1LkSBeBEleKONqkgxX5qzSJu-eJKnV1DU)**
+* Data Analytics Dashboards
+* Machine Learning Projects
+* Generative AI Applications
+* Open Source AI & Data Science Projects
+
+## 🤝 I'm Looking for Help With
+
+* MLOps & Model Deployment
+* Cloud Technologies (AWS/GCP/Azure)
+* Large Scale AI Systems
+* Open Source Contributions
+
+## 💬 Ask Me About
+
+* Python
+* SQL
+* Excel
+* Power BI
+* Tableau
+* Pandas
+* NumPy
+* Machine Learning
+* Data Analysis
+* Data Visualization
+* Deep Learning
+* Generative AI
+
+## 📫 Reach Me At
+
+**Email:** `akanojiya146@gmail.com`
+
+## ⚡ Fun Fact
+
+I love building AI projects and learning new technologies through hands-on experimentation.
+
+## 📄 Portfolio & Resume
+
+[View My Portfolio & Certificates](https://drive.google.com/drive/u/1/folders/1LkSBeBEleKONqkgxX5qzSJu-eJKnV1DU)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,4 +72,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
-
